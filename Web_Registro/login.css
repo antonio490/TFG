@@ -1,0 +1,84 @@
+body{
+	background: linear-gradient(to left, #485563 , #29323c);
+}
+
+h1{
+	color: white;
+	font-family: miFuente;
+	text-shadow: 6px 4px black;
+	font-size: 72px;
+	text-align: center;
+}
+
+footer{
+	margin-top: 180px;
+}
+
+p{
+	color: white;
+	font-family: miFuente;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+form{
+	
+	padding: 20px 480px 20px 480px;
+}
+
+table{
+	border: solid 1px #5A8584;
+	padding: 14px;
+	font-family: miFuente;
+	font-size: 18px;
+	box-shadow: 2px 2px #5A8584;
+	
+}
+
+tr{
+	width: 200px;
+	height: 60px;
+	
+}
+
+td{
+	width: 120px;
+	
+}
+
+label{
+	color: white;
+}
+
+input{
+	font-family: miFuente;
+	font-size: 18px;
+}
+
+input:hover{
+	background-color: #DEDEDE;
+}
+
+button{
+	font-size: 18px;
+	font-family: miFuente;
+	margin-left: 5px;
+	background-color:;
+	border-radius: 4px;
+	box-shadow: 2px 2px black;
+	
+}
+
+button#btn1{
+	margin-left: 580px;
+}
+
+button:hover{
+	box-shadow: none;
+}
+
+@font-face{
+	font-family: miFuente;
+	src: url(fuente2.otf);
+}

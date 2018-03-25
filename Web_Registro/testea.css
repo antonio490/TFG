@@ -1,0 +1,90 @@
+
+body{
+	
+	background: linear-gradient(to left, #485563 , #29323c);
+}
+
+h1{
+	font-family: miFuente2;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	font-size: 54px;
+	text-align: center;
+	text-shadow: 4px 4px black;
+	color: white;
+	
+}
+
+p{
+	font-family: miFuente2;
+	color: white;
+	text-align:center;
+	font-size: 14px;
+	padding-top: 40px;
+}
+
+
+@font-face{
+	font-family: miFuente2;
+	src: url(fuente2.otf);
+}
+
+table{
+	padding-left: 5px;
+	text-align: center;
+	font-family: miFuente2;
+	font-size: 18px;
+	border-collapse: collapse;
+}
+
+thead{
+	table-layout: fixed;
+}
+
+tbosy{
+	overflow: auto;
+}
+
+tr{
+	height: 50px;
+	width: 200px;
+	
+}
+
+th{
+	background-color: #c99e10;
+	border: black solid 1px;
+	box-shadow: 1px 1px black;
+}
+th:hover{
+	
+}
+
+tr:nth-child(even){
+	background-color: #9b4f0f;
+}
+
+tr:nth-child(odd){
+	background-color: #9b4f0f;
+}
+
+td:nth-child(2){
+	
+	width: 220px;
+}
+
+td:nth-child(3){
+	
+	width: 220px;
+}
+
+td{
+	width: 140px;
+	border: 1px solid black;
+	color: white;
+}
+
+
+
+
+

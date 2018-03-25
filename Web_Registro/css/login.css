@@ -1,0 +1,85 @@
+
+html{    
+	background-color: #BFD1B3;
+}
+
+form{
+
+padding-left: 550px;
+padding-top: 40px;
+}
+
+@font-face{
+	font-family: miFuente2;
+	src: url(../fuente2.otf);
+}
+
+input{
+font-family: miFuente2;
+color:black;
+display:inline-block;
+border-radius: 6px;
+float:center;
+width: 150px;
+font-size: 24px;
+
+}
+
+#imagen{
+padding-top: 50px;
+padding-left: 320px;
+}
+
+#button1{
+padding-top: 30px;
+padding-left: 100px;
+}
+
+button{
+
+background-color: #DBDAD8; 
+color: black;
+border: solid 1px black;
+font-family: miFuente2;
+text-align: center;
+box-shadow: 2px 2px black;
+border-radius: 3px;
+display: inline-block;
+font-size: 30px;
+}
+
+button:hover{
+background-color: #DBDAD0; 
+color: black;
+box-shadow: none;
+
+}
+
+table{
+	font-size: 28px;
+	font-family: miFuente2;
+}
+
+tr{
+	width: 280px;
+	height: 50px;
+}
+
+td{
+	width: 140px;
+	height: 50px;
+}
+
+p{
+font-size: 14px;
+font-weight: bold;
+margin-left: 3cm;
+text-align:center;
+font-family: miFuente2;
+}
+
+#rights{
+padding-top: 1000px;
+text-align:center;
+}
+
