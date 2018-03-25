@@ -1,14 +1,13 @@
 
-# Universidad de Alcalá
-# Escuela Politécnica Superior
+# Universidad de Alcalá Escuela Politécnica Superior
 
 ## Grado en tecnologías de la telecomunicación
 
-###Trabajo Fin de Grado
+> Trabajo Fin de Grado
 
 ## DESARROLLO DE UNA APLICACIÓN INFANTIL PARA DETECCION DE ANOMALÍAS EN EL DESARROLLO
 
-- Autor: Antonio Sanz Corbalán
+- Antonio Sanz Corbalán
 
 > Summary
 
