@@ -7,7 +7,8 @@
 
 ## DESARROLLO DE UNA APLICACIÓN INFANTIL PARA DETECCION DE ANOMALÍAS EN EL DESARROLLO
 
-- Antonio Sanz Corbalán
+### Antonio Sanz Corbalán
+
 
 > Resumen
 
