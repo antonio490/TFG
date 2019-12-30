@@ -19,6 +19,8 @@ comunes entre varios objetos de una misma imagen. El objetivo es detectar casos 
 edad con dificultadas para resolver los puzles adecuadamente y/o tratar de desarrollar la
 habilidad de integración en niños ya diagnosticados con algún tipo de anomalía.
 
+## DEVELOPMENT OF A CHILD APPLICATION FOR EARLY DISORDER DETECTION 
+
 > Summary
 
 The Android application developed, is capable of an early screening child disorder. The
